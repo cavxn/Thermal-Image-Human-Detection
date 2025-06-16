@@ -1,0 +1,5 @@
+names:
+  0: human
+nc: 1
+train: /Users/cavins/Desktop/project/Thermal-image-human-detection/dataset/test/images
+val: /Users/cavins/Desktop/project/Thermal-image-human-detection/dataset/test/images

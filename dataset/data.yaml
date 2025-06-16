@@ -1,0 +1,7 @@
+
+path: /Users/cavins/Desktop/project/Thermal-image-human-detection/dataset
+train: train/images
+val: test/images
+
+nc: 1
+names: ['human']

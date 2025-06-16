@@ -1,0 +1,12 @@
+# Ignore virtual environments
+yolofixenv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore large files and system stuff
+.DS_Store
